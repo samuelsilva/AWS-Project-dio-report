@@ -1,6 +1,6 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 03 de Outubro de 2024  
+Data: 04 de Outubro de 2024  
 Empresa: Abstergo Industries  
 Responsável: Samuel Dario da Silva
 
@@ -51,4 +51,4 @@ Com essas três ferramentas, a Abstergo Industries estará preparada para enfren
 
 Assinatura do Responsável pelo Projeto:
 
-[Nome do Responsável pelo Projeto]
+Samuel Dario da Silva
